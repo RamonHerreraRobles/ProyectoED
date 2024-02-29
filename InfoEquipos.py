@@ -1,4 +1,6 @@
-
+import csv
+import Puntos
+import QuienGana
 def InfoEquipos(datosliga, equipos):
     info_equipos = []
 
